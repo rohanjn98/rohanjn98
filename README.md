@@ -17,11 +17,10 @@
 - 🎐 My Message: Let every fibre of your being speak for itself!
 
 
-👔 [linkedin][linkedin] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram]
-
+👔 [LinkedIn][linkedin] **|** 
+🐦 [Twitter][twitter] **|** 
+📺 [YouTube][youtube] **|** 
+📷 [Instagram][instagram]
 
 [linkedin]: https://www.linkedin.com/in/rohan-bhagwatkar-7674b6141/
 [instagram]: https://www.instagram.com/rohanbhagwatkar/
