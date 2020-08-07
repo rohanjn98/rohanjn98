@@ -25,28 +25,18 @@
 </a>
 -->
 ####
-<a href=[LinkedIn][linkedin]>
+<a href="https://www.linkedin.com/in/rohan-bhagwatkar-7674b6141/">
   <img align="left" alt="Rohan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href=[Twitter][twitter]>
+<a href="https://twitter.com/rohanbhagwatkar">
   <img align="left" alt="Rohan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href=[GitHub][github]>
-  <img align="left" alt="Rohan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href=[Instagram][instagram]>
+<a href="https://www.instagram.com/rohanbhagwatkar/">
   <img align="left" alt="Rohan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href=[Facebook][facebook]>
+<a href="https://www.facebook.com/rohan.bhagwatkar.1">
   <img align="left" alt="Rohan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href=[YouTube][youtube]>
+<a href="https://www.youtube.com/channel/UCsTfcrLxPFBuKoWw9X7Oc-Q?view_as=subscriber">
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-
-[linkedin]: https://www.linkedin.com/in/rohan-bhagwatkar-7674b6141/
-[instagram]: https://www.instagram.com/rohanbhagwatkar/
-[twitter]: https://twitter.com/rohanbhagwatkar
-[youtube]: https://www.youtube.com/channel/UCsTfcrLxPFBuKoWw9X7Oc-Q?view_as=subscriber
-[github]: https://github.com/rohanjn98/
-[facebook]: https://www.facebook.com/rohan.bhagwatkar.1
