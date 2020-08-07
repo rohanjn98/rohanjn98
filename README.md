@@ -17,7 +17,7 @@
 - 🎐 My Message: Let every fibre of your being speak for itself!
 
 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram]
