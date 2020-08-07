@@ -20,7 +20,7 @@
 👔 [linkedin][linkedin]
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
+📷 [instagram][instagram]
 
 
 [linkedin]: https://www.linkedin.com/in/rohan-bhagwatkar-7674b6141/
