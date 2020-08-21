@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning how to deploy models on web and mobile apps
 
-- 💬 Ask me about Java, C++, Python and JavaScript
+- 💬 Ask me about Java, C++, Python, JavaScript and Machine Learning
 
 - 😄 Pronouns: He/His
 
