@@ -4,11 +4,19 @@
 **rohanjn98/rohanjn98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on GANs and some web development projects
+- 🔭 I currently work as a Data Engineer. I always strive to generate meaningful insights from raw data by building big data processing pipelines that power different analytical dashboards. 
 
-- 🌱 I’m currently learning how to deploy models on web and mobile apps
+In my experience of approximately 3 years, I have designed, developed and delivered high performing real time and batch data processing pipelines that process terabytes to petabytes of data on a daily basis in the cloud. These pipelines have helped the teams to drive real time analytics on user experience metrics and also provide processed data for search and recommendation services.
 
-- 💬 Ask me about Java, C++, Python, JavaScript and Machine Learning
+- 💬 The journey so far has allowed me to gain exposure and proficiency in: 
+Programming Languages - Java, Scala and Python
+BigData Frameworks - Flink, Spark, Hadoop and Kafka (Core, Connect, Streams)
+Cloud - AWS (Amazon Web Services) - S3, EC2, EMR, Lambda, Kinesis (Streams, Firehose and KDA), SQS, SNS, Athena, Glue and Cloudwatch
+Databases - PostgreSQL, Elasticsearch and Druid
+Dashbording Tools - Kibana, Graphana, Redash and Superset
+APM - NewRelic 
+CI/CD - Jenkins
+SCM - GitHub and GitLab
 
 - 😄 Pronouns: He/His
 
@@ -25,7 +33,7 @@
 </a>
 -->
 ####
-<a href="https://www.linkedin.com/in/rohan-bhagwatkar-7674b6141/">
+<a href="https://www.linkedin.com/in/rohan-bhagwatkar/">
   <img align="left" alt="Rohan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/rohanbhagwatkar">
@@ -36,7 +44,4 @@
 </a>
 <a href="https://www.facebook.com/rohan.bhagwatkar.1">
   <img align="left" alt="Rohan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCsTfcrLxPFBuKoWw9X7Oc-Q?view_as=subscriber">
-  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
